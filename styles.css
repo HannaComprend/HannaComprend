@@ -15,4 +15,21 @@ header {
 .blue {
   color: blue;
   }
-{}
+.akkumal{
+  background-color: #B0E0E6;
+}
+.akkumal img{
+  width:30%;
+  height: auto;
+  margin: 0;
+  padding: 25px;
+}
+.akkumal-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sandhamn{
+  background-color: #4682B4;
+}
