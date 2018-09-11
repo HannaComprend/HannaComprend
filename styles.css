@@ -1,22 +1,30 @@
 h1{
-  color: white;
+  color: black;
+}
+h2{
+  color: #1E90FF;
+  text-align: center;
+}
+p{
+  padding:40px;
 }
 /* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
 header {
-  background-color: #008B8B;
+  background-color: white;
   }
   img{
     width:400px;
     margin-right:400px;
     margin-left:400px;
-    padding: 50px;
+    padding: 20px;
 
     }
 .blue {
   color: blue;
   }
+
 .akkumal{
-  background-color: #B0E0E6;
+  background-color: white;
 }
 .akkumal img{
   width:30%;
@@ -31,5 +39,5 @@ header {
 }
 
 .sandhamn{
-  background-color: #4682B4;
+  background-color: white;
 }
