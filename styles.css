@@ -1,2 +1,18 @@
-
+h1{
+  color: white;
+}
 /* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+header {
+  background-color: #008B8B;
+  }
+  img{
+    width:400px;
+    margin-right:400px;
+    margin-left:400px;
+    padding: 50px;
+
+    }
+.blue {
+  color: blue;
+  }
+{}
