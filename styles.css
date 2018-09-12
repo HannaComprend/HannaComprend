@@ -1,14 +1,20 @@
+body{
+  font-family: 'Asap', sans-serif;
+}
+
 h1{
   color: black;
 }
 h2{
-  color: #1E90FF;
+  color: #00b0b3;
   text-align: center;
 }
 p{
-  padding:40px;
+  padding:60px;
 }
 /* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+
+
 header {
   background-color: white;
   }
@@ -17,7 +23,23 @@ header {
     margin-right:400px;
     margin-left:400px;
     padding: 20px;
+    }
 
+    header .topnav{
+    background-color: #00b0b3;
+    overflow: hidden;
+}
+header .topnav a {
+  float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+    header .topnav a:hover {
+    background-color: #00c9cc;
+    color: white;
     }
 .blue {
   color: blue;
