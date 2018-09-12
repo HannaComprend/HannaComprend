@@ -10,7 +10,8 @@ h2{
   text-align: center;
 }
 p{
-  padding:60px;
+  padding:20px;
+  color: #00b0b3;
 }
 /* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
 
@@ -41,25 +42,29 @@ header .topnav a {
     background-color: #00c9cc;
     color: white;
     }
-.blue {
-  color: blue;
-  }
+
 
 .akkumal{
   background-color: white;
 }
+.centertext{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centertext p{
+  text-align: center;
+  padding: 0px 80px;
+}
+
 .akkumal img{
-  width:30%;
+  width:100%;
   height: auto;
   margin: 0;
-  padding: 25px;
+  padding: 0px;
 }
 .akkumal-img{
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.sandhamn{
-  background-color: white;
 }
